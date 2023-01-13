@@ -1,2 +1,2 @@
 # database-per-tenant
-A Guide to using Database-Per-Tenant Multi Tenancy with GORM 6.1
+Implementing multi-tenancy in grails with a single database using a discriminator column
